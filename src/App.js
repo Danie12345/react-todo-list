@@ -1,8 +1,16 @@
 import './App.css';
+import React from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
+import TodoContainer from './functionBased/components/TodoContainer';
+import './functionBased/App.css';
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <React.StrictMode>
+      <Router basename={process.env.PUBLIC_URL}>
+        <TodoContainer />
+      </Router>
+    </React.StrictMode>
   );
 }
 

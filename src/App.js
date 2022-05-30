@@ -1,8 +1,12 @@
 import './App.css';
+import React from 'react';
+import TodoContainer from "./components/TodoContainer";
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <React.StrictMode>
+      <TodoContainer />
+    </React.StrictMode>
   );
 }
 

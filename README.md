@@ -10,13 +10,13 @@ Simple to-do list app made with React!
 - Gitflow
 
 ## Live Demo
-- [Demo](https://anagudelogu.github.io/react-todo-list)
+- [Demo](https://danie12345.github.io/react-todo-list)
 
 
 ## Getting Started
 > To get a local copy up and running follow these simple example steps.
 
-- Clone the repo with this link https://github.com/anagudelogu/capstone-two.git
+- Clone the repo with this link https://github.com/danie12345/react-todo-list.git
 
 - Create a branch to work on your features
 
@@ -60,7 +60,7 @@ Your app is ready to be deployed!
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues](https://github.com/anagudelogu/capstone-two/issues) page.
+Feel free to check the [issues](https://github.com/danie12345/react-todo-list/issues) page.
 
 
 ## Show your support
